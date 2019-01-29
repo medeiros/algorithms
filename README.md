@@ -2,7 +2,7 @@
 
 This project is a set of computer challenges, implemented in order to prepare myself for interviews. 
 
-### HackerRank basics
+### HackerRank basic challenges
 
 https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree
 
